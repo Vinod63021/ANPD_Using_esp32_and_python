@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.mp3
+desktop.ini
+.DS_Store
+Thumbs.db
